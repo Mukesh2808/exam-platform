@@ -1,6 +1,17 @@
 # Exam Platform - Full Stack Application
 
 A modern, responsive exam-taking platform built with React.js, Node.js, Express.js, and MongoDB.
+# Login Page
+![image alt] (image_url)]
+
+# Home Page
+![image alt] (image_url)]
+
+# Exam Page
+![image alt] (image_url)]
+
+# Result Page
+![image alt] (image_url)]
 
 ## Features
 
