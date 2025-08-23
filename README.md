@@ -8,10 +8,10 @@ A modern, responsive exam-taking platform built with React.js, Node.js, Express.
 ![image alt](https://github.com/Mukesh2808/exam-platform/blob/main/Home%20page.jpeg?raw=true)
 
 # Exam Page
-![image alt] (image_url)]
+![image alt](https://github.com/Mukesh2808/exam-platform/blob/main/Exam%20page.jpeg?raw=true)
 
 # Result Page
-![image alt] (image_url)]
+![image alt](https://github.com/Mukesh2808/exam-platform/blob/main/Result%20page.jpeg?raw=true)
 
 ## Features
 
@@ -47,3 +47,23 @@ A modern, responsive exam-taking platform built with React.js, Node.js, Express.
 - Git
 
 ### Clone Repository
+git clone https://github.com/Mukesh2808/exam-platform.git
+cd exam-platform
+
+Setup environment
+cp server/.env.example server/.env
+
+Edit server/.env with your MongoDB URI and JWT secret
+Install dependencies
+cd server && npm install
+cd ../client && npm install
+
+Seed database
+cd ../server && node seedData.js
+
+Run application
+Terminal 1: Backend
+cd server && npm run dev
+
+Terminal 2: Frontend
+cd client && npm start
