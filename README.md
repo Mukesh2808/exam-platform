@@ -5,7 +5,7 @@ A modern, responsive exam-taking platform built with React.js, Node.js, Express.
 ![image alt](https://github.com/Mukesh2808/exam-platform/blob/main/login%20page.jpeg?raw=true)
 
 # Home Page
-![image alt] (image_url)]
+![image alt](https://github.com/Mukesh2808/exam-platform/blob/main/Home%20page.jpeg?raw=true)
 
 # Exam Page
 ![image alt] (image_url)]
